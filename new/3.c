@@ -2,9 +2,9 @@
 void main()
 {
 	int a[20],n,i,j,t;
-	printf("ENTER THE NO.OF.ELEMENTS:\n");
+	printf("ENTER THE ELEMENT:\n");
 	scanf("%d",&n);
-	printf("ENTER THE ELEMENTS:\n");
+	printf("ENTER THE NO OF ELEMENTS:\n");
 	for(i=0;i<n;i++)
 	{
 	scanf("%d",&a[i]);	
